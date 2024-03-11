@@ -10,6 +10,7 @@ Mark Task as Completed
 Display Tasks
 Exit Enter your choice: 1
 Enter task description: maths Enter task priority (high/medium/low): high Enter due date (DD-MM-YYYY): 12-03-2024 Task added successfully!
+
 TO MARK AS COMPLETED
 --- To-Do List ---
 
